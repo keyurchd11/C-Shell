@@ -1,0 +1,21 @@
+20
+pinfo 1
+clear
+ls
+clear
+history
+exit
+echo hello world
+pwd
+clear
+exit
+echo hello world!
+xeyes
+jobs
+pinfo 1
+clear
+ls
+clear
+history
+clear
+exit
